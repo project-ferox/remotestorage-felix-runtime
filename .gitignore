@@ -1,0 +1,4 @@
+load/*.jar
+resources/
+configurations/
+felix-cache/
